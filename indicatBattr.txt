@@ -1,0 +1,14 @@
+ IndicatBattrSh
+ indicatBattr.sh
+ Скрипт, показывающий уровень заряда батарей компа.
+ --------------------------------------------------
+ https://asciinema.org/a/495843
+ https://try.gogs.io/Grannik/IndicatBattrSh
+ https://try.gitea.io/Grannik/IndicatBattrSh
+ https://framagit.org/GrannikOleg/indicatbattrsh
+ https://bitbucket.org/grannikoleg/workspace/projects/IN
+ https://codeberg.org/Grannik/IndicatBattrSh
+ https://notabug.org/Grannikoleg/IndicatBattrSh
+ https://sourceforge.net/p/indicatbattrsh/admin/?first-visit
+ https://gitlab.com/grannik/indicatbattrsh
+ https://github.com/GrannikOleg/IndicatBattrSh
